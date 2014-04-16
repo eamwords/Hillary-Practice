@@ -1,1 +1,35 @@
-/* My Styles */
+/* Masthead */
+
+header {
+	position: relative;
+}
+ 
+header h1 {
+	position: absolute;
+	left: 48px;
+	bottom: 0;
+	font-size: 2em;
+}
+
+
+/*Column 1 Styling*/
+
+.tabs-content {
+
+padding: 10px;
+border-top: none;
+border: 1px solid;
+
+}
+
+/*Column 2 Styling*/
+
+.panel.callout {
+background: tan;
+}
+
+
+/* Modal */
+.reveal-modal-bg { 
+ background: rgba(180, 109, 109, 0.62);
+}
